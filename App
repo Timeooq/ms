@@ -1,0 +1,279 @@
+<html lang="en" dir="ltr"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> Ahmed Ali | احمد علي </title>
+    <meta name="description" content="موقع متخصص في ( تطبيقات البلس , تطبيقات الآيفون , العاب , أفلام و مسلسلات , و المزيد ... )">
+    <meta name="keywords" content="iPhone, iPod Touch, iPhone appstore, iPhone app, iPhone Battery, iPhone case, iPhone accessories, MAC, osx, iMac, iPod, Games, cydia, bigboss, sbsettings , تطبيقات البلس . تطبيقات الآيفون  , العاب , أفلام و مسلسلات , و المزيد , موقع احمد علي , احمد علي">
+    <meta name="author" content="Gamal Abomera">
+    <link href="https://fonts.googleapis.com/css?family=Cairo" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+	
+<style> 
+
+#panel {
+ 
+    display: flex;
+}
+</style>
+</head>
+
+<body>
+    <nav class="navbar fixed-top" style="display: none;">
+        <div class="pull-right">
+            <a href="https://www.snapchat.com/add/r7.com/"><img src="https://a.top4top.net/p_806629xj1.png" alt=""></a>
+        </div>
+        <div class="pull-left">
+            <a href="https://www.youtube.com/channel/UC8IZ6wMBddjkisG0oVy0_pQ"><i class="fa fa-youtube-play"></i></a>
+            <a href="https://twitter.com/A7med__Ali/"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.instagram.com/a7med__ali/"><i class="fa fa-instagram"></i></a>
+        </div>
+    </nav>
+    <div class="top">
+        <div class="logo">
+            <img src="https://a.top4top.net/p_816e3ghn1.png" width="100px" class="img-fluid d-block mx-auto" alt="">
+            
+        </div>
+        <div class="ads"> موقع احمد علي </div>
+    </div>
+
+    <!-- topics -->
+    <div class="topics text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/le/">
+                        <img src="http://a-7.ae/img/el.png" alt="">
+                        <br>
+                        <b>الشروحات والدروس</b>
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/app/">
+                        <img src="http://a-7.ae/img/app.png" class="img-fluid" alt=""><br>
+                        <b>التطبيقات</b>
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/Plus/">
+                        <img src="http://a-7.ae/img/Plus.png" alt=""><br>
+                        <b>تطبيقات البلس</b>
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/games/">
+                        <img src="http://a-7.ae/img/games.png" alt=""><br>
+                        <b>العاب</b>
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/movie/">
+                        <img src="http://a-7.ae/img/movie.png" alt=""><br>
+                        <b>افلام و مسلسلات</b>
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/b/">
+                        <img src="http://a-7.ae/img/b.png" alt=""><br>
+                        <b>الخلفيـات</b>
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/lens/">
+                        <img src="http://a-7.ae/img/lens.png" alt=""><br>
+                        <b>عدسة الماكرو</b>
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/moohdh/">
+                        <img src="http://a-7.ae/img/moohdh.png" alt=""><br>
+                        <b>فقرة محمد حسن</b>
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/free/">
+                        <img src="http://a-7.ae/img/free.png" alt=""><br>
+                        <b>مجاني لفترة</b>
+                    </a>
+                </div> </div>
+				<div id="panel" class="row" style="display: none;">
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/link">
+                        <img src="http://a-7.ae/img/soon.png" alt=""><br>
+                        <b>اختصار الروابط</b>
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/ads/">
+                        <img src="http://a-7.ae/img/ad.png" alt=""><br>
+                        <b>إزالة الإعلانات</b>
+
+                    </a>
+                </div>
+                <div class="col-xs-4">
+                    <a href="http://a-7.ae/lenses">
+                        <img src="http://a-7.ae/img/snapf.png" alt=""><br>
+                        <b>عدسات سناب شات</b>
+                    </a>
+                </div>
+			
+				            </div>
+							<div class="row">
+							   <a href="javascript:void(0);" id="flip" style="background:transparent;" class="sm">︾ إظهار المزيد ︾</a>
+						
+   
+
+                <div class="contact">
+                    <p> تواصل معي  </p>
+                </div>
+                
+
+                
+
+            </div>
+        </div>
+    </div>
+    <!-- topics -->
+
+    <!-- contact -->
+    <div class="con text-right" dir="rtl">
+        <br>
+        <br>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="cat">
+                        <a href="#" class="row">
+                            <div class="col-xs-3">
+                                <img src="https://e.top4top.net/p_839trxsa1.png" alt="">
+                            </div>
+                            <div class="col-xs-9">
+                                <p> طريقة تثبيت تطبيقات البلس</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="cat">
+                        <a href="https://www.youtube.com/watch?v=WixJ2rKI3yc" class="row">
+                            <div class="col-xs-3">
+                                <img src="https://a.top4top.net/p_839lv9tg1.png" alt="">
+                            </div>
+                            <div class="col-xs-9">
+                                <p> طريقة تثبيت سناب عثمان</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="cat">
+                        <a href="https://www.youtube.com/watch?v=afvSFNMM0s0" class="row">
+                            <div class="col-xs-3">
+                                <img src="https://d.top4top.net/p_8064sbcv3.png" alt="">
+                            </div>
+                            <div class="col-xs-9">
+                                <p> طريقة فك حظر حساب سناب شات</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="cat">
+                        <a href="https://www.youtube.com/watch?v=0b7Owla-xAQ" class="row">
+                            <div class="col-xs-3">
+                                <img src="https://f.top4top.net/p_8390xwsc1.png" alt="">
+                            </div>
+                            <div class="col-xs-9">
+                                <p> تصوير بـ احترافية من الآيفون</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="cat">
+                        <a href="#" class="row">
+                            <div class="col-xs-3">
+                                <img src="https://a.top4top.net/p_8065iyxc6.png" alt="">
+                            </div>
+                            <div class="col-xs-9">
+                                <p> قريباً </p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                    <!-- contact -->
+    <p> &nbsp;</p>
+        </div>
+    
+    <div class="top">
+        <div class="logo">
+        <div class="ads">		<!-- Logo -->
+
+			
+			<label style="clear:left; ">		
+			<font color="#BDBDBD">
+<p align="center"><font style="font-size: 9pt">Powered By AHMED ALI © 2018</font></p></font><p align="center"><font color="#BDBDBD"></font><font color="#BDBDBD"></font>
+			<font color="#744E97"><label style="clear:left; font-weight:700">
+			<span lang="ar-sa">
+			<a href="https://www.instagram.com/a7med__ali/" target="_blank" title="تابعني على انستقرام"><img src="http://a-7.ae/Plus/template/images/instagram.png" alt="تابعني على انستقرام" title="تابعني على انستقرام" border="0"></a> </span><span lang="en-us">
+</span><a href="https://www.snapchat.com/add/r7.com/" target="_blank" title="تابعني علي تويتر"><span lang="en-us"><img src="http://a-7.ae/Plus/template/images/snapchat.png" alt="تابعني على سناب شات" title="تابعني على سناب شات" border="0"></span><span lang="ar-sa">
+</span><span lang="en-us">&nbsp;</span></a><span lang="en-us"><a href="https://twitter.com/A7med__Ali/" target="_blank" title="تابعني علي تويتر"><img src="http://a-7.ae/Plus/template/images/Twitter.png" alt="تابعني علي تويتر" title="تابعني علي تويتر" border="0"></a> </span><span lang="ar-sa">
+</span><a href="https://www.youtube.com/channel/UC8IZ6wMBddjkisG0oVy0_pQ" target="_blank" title="تابعني"><span lang="en-us"><img src="http://a-7.ae/Plus/template/images/YouTube.png" alt="تابعني علي يوتيوب" title="تابعني علي يوتيوب" border="0"></span></a>
+			</label>
+			</font><label style="clear:left; font-weight:100">
+			<font color="#BDBDBD">
+			</font></label></p><div align="center"><font color="#BDBDBD">&nbsp;<span lang="en-us">[ </span></font><font color="#744E97">
+				<a href="http://www.amazingcounters.com"><font color="#BDBDBD"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3213372&amp;c=9640429" alt="AmazingCounters.com"></font></a><font color="#BDBDBD"><span lang="en-us"> 
+				]
+				    <!-- snapchat -->	
+
+    <input type="hidden" name="auto_open" data-twitter="true" data-android="true" value="snapchat://add/r7.com/?sc_referrer=&amp;link=%2Fadd%2Fr7.com%2F&amp;sc_ua=Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F49.0.2623.112+Safari%2F537.36&amp;cid=60c44aec-8bed-44b7-bc2a-8a9850bc13ac">
+    <input type="hidden" name="auto_open" data-chrome="true" data-samsung="false" data-twitter="false" data-facebook="false" data-android="true" value="snapchat://add/r7.com/?sc_referrer=&amp;link=%2Fadd%2Fr7.com%2F&amp;sc_ua=Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F49.0.2623.112+Safari%2F537.36&amp;cid=60c44aec-8bed-44b7-bc2a-8a9850bc13ac">
+    <input type="hidden" name="auto_open" data-chrome="false" data-facebook="false" data-twitter="false" data-android="true" value="snapchat://add/r7.com/?sc_referrer=&amp;link=%2Fadd%2Fr7.com%2F&amp;sc_ua=Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F49.0.2623.112+Safari%2F537.36&amp;cid=60c44aec-8bed-44b7-bc2a-8a9850bc13ac">
+    <input type="hidden" name="auto_open" data-twitter="true" data-ios="true" value="snapchat://add/r7.com/?sc_referrer=&amp;link=%2Fadd%2Fr7.com%2F&amp;sc_ua=Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F49.0.2623.112+Safari%2F537.36&amp;cid=60c44aec-8bed-44b7-bc2a-8a9850bc13ac">
+    <input type="hidden" name="auto_open" data-facebook="true" data-ios="true" value="snapchat://add/r7.com/?sc_referrer=&amp;link=%2Fadd%2Fr7.com%2F&amp;sc_ua=Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F49.0.2623.112+Safari%2F537.36&amp;cid=60c44aec-8bed-44b7-bc2a-8a9850bc13ac">
+    <input type="hidden" name="auto_open" data-twitter="false" data-facebook="false" data-ios="true" value="snapchat://add/r7.com/?sc_referrer=&amp;link=%2Fadd%2Fr7.com%2F&amp;sc_ua=Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F49.0.2623.112+Safari%2F537.36&amp;cid=60c44aec-8bed-44b7-bc2a-8a9850bc13ac">
+
+
+
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.snapchat.com/deeplink/static/js/deeplink.js?x=0"></script>
+
+<script> 
+$(document).ready(function(){
+    $("#flip").click(function(){
+	
+	
+
+        $("#panel").slideToggle("slow",function(){
+	
+   if($('#panel').css('display') == 'none'){ 
+    $("#flip").html("&#65086; إظهار المزيد &#65086;");
+    }else{
+    $("#flip").html("&#65085; إخفاء &#65085;");
+    }
+		
+		
+		
+    });
+	    });
+});
+
+</script>
+
+<!-- snapchat -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="js/js.js"></script>
+
+    
+
+
+
+
+
+
+</span></font></font></div></label></div></div></div></div></div></body></html>
